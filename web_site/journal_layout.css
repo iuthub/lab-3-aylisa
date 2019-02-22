@@ -1,0 +1,41 @@
+.container {
+	border: 10px white solid;
+	background: white;
+}
+#number1 {
+	border: 5px #A8F0F0 solid;
+	background: #A8F0F0;
+}
+#number2 {
+	border: 5px #A8F0F0 solid;
+	text-align: right;
+	background: #A8F0F0;
+}
+.bluediv {
+	border: 4px #C2E9E9 solid;
+	background:  #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	clear: right;
+	height: auto;
+	overflow: auto;
+}
+.date{
+	border-bottom: 2px blue dashed;
+	
+}
+body {
+	background-image: url("http://www.cs.washington.edu/education/courses/190m/09sp/labs/2‐journal/images/background.gif");
+	padding-left: 10%;
+	padding-right: 10%;
+}
+h1 {
+	text-align: right;
+}
+img {
+	float: right;
+}
+#aylisa {
+   font-size: 14pt;
+}
+
